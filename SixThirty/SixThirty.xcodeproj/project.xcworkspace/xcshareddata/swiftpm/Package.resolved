@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DateHelper",
+        "repositoryURL": "https://github.com/melvitax/DateHelper",
+        "state": {
+          "branch": null,
+          "revision": "f9e064e707b7b01737bc6064c14405499ed2806a",
+          "version": "4.5.4"
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": null,
+          "revision": "0c02c46cfdc0656ce74fd0963a75e5000a0b7f23",
+          "version": "7.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
